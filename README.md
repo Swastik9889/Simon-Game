@@ -1,7 +1,8 @@
 # Simon-Game
+The Simon game is a classic electronic memory game that challenges players to repeat a sequence of flashing colors in the correct order.
 
 # RULES
-1-The game is played on a round unit with four colour buttons; red, blue, green ang yellow.
+1-The game is played on a round unit with four colour buttons; red, blue, green ang yellow.\n
 2-The game will flash a sequence of colors and the player must repeat the sequence by pressing the corresponding colored buttons on the Simon game unit.
 3-Each time the player successfully repeats the sequence, the game will add one more color to the sequence, making it longer and more difficult to remember.
 4-The player must repeat the sequence as quickly and accurately as possible. If the player makes a mistake, the game will end.
