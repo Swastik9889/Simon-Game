@@ -1,6 +1,6 @@
 # Simon-Game
 
-RULES
+# RULES
 1-The game is played on a round unit with four colour buttons; red, blue, green ang yellow.
 2-The game will flash a sequence of colors and the player must repeat the sequence by pressing the corresponding colored buttons on the Simon game unit.
 3-Each time the player successfully repeats the sequence, the game will add one more color to the sequence, making it longer and more difficult to remember.
